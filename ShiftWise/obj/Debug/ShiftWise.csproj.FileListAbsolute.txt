@@ -1,9 +1,3 @@
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\bin\Debug\ShiftWise.exe.config
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\bin\Debug\ShiftWise.exe
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\bin\Debug\ShiftWise.pdb
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\obj\Debug\ShiftWise.exe
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\obj\Debug\ShiftWise.pdb
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWise\obj\Debug\ShiftWise.csprojResolveAssemblyReference.cache
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWise\bin\Debug\ShiftWise.exe.config
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWise\obj\Debug\ShiftWise.exe
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWise\obj\Debug\ShiftWise.pdb

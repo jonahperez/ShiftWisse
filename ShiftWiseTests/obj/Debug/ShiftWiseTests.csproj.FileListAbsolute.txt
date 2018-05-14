@@ -1,14 +1,3 @@
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\ShiftWiseTests.dll
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\ShiftWiseTests.pdb
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\nunit.framework.dll
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\ShiftWise.exe
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\ShiftWise.pdb
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\nunit.framework.pdb
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\bin\Debug\nunit.framework.xml
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\obj\Debug\ShiftWiseTests.csprojResolveAssemblyReference.cache
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\obj\Debug\ShiftWiseTests.dll
-C:\Users\Jonah Perez\code\ShiftWise\ShiftWiseTests\obj\Debug\ShiftWiseTests.pdb
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWiseTests\bin\Debug\ShiftWiseTests.dll
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWiseTests\bin\Debug\ShiftWiseTests.pdb
 C:\Users\Jonah Perez\code\otherteset\ShiftWisse\ShiftWiseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
