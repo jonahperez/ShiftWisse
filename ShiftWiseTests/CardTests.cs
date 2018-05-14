@@ -38,22 +38,22 @@ namespace NUnit.Tests1
             card.Rank = 5;
             card.Suit = Card.Suits.Diamond;
             String val = card.ToString() ;
-            if (!card.ToString().Equals("5 of Diamonds")) Assert.Fail("Unexpected ToString return for Diamonds");
+            if (!card.ToString().Equals("5D")) Assert.Fail("Unexpected ToString return for Diamonds");
 
             card.Rank = 1;
             card.Suit = Card.Suits.Spade;
-            if (!card.ToString().Equals("Ace of Spades")) Assert.Fail("Unexpected ToString return Spades");
+            if (!card.ToString().Equals("AS")) Assert.Fail("Unexpected ToString return Spades");
 
             card.Rank = 11;
             card.Suit = Card.Suits.Club;
-            if (!card.ToString().Equals("Jack of Clubs")) Assert.Fail("Unexpected ToString return Clubs");
+            if (!card.ToString().Equals("JC")) Assert.Fail("Unexpected ToString return Clubs");
 
             card.Rank = 12;
             card.Suit = Card.Suits.Heart;
-            if (!card.ToString().Equals("Queen of Hearts")) Assert.Fail("Unexpected ToString return Hears");
+            if (!card.ToString().Equals("QH")) Assert.Fail("Unexpected ToString return Hears");
 
             card.Rank = 13;
-            if (!card.ToString().Equals("King of Hearts")) Assert.Fail("Unexpected ToString return");
+            if (!card.ToString().Equals("KH")) Assert.Fail("Unexpected ToString return");
         }
 
         [Test]
@@ -78,7 +78,7 @@ namespace NUnit.Tests1
         public void TestConstructor()
         {
             Card c = new Card(4, Card.Suits.Heart);
-            Assert.That(c.ToString().Equals("4 of Hearts"));
+            Assert.That(c.ToString().Equals("4H"));
         }
     }
 }
