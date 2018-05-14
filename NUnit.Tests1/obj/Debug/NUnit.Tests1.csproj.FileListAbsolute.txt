@@ -1,0 +1,7 @@
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\Jonah Perez\code\ShiftWise\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
